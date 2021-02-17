@@ -12,4 +12,4 @@ api.add_resource(Fetch, "/setu/fetch")
 api.add_resource(Pay, "/setu/pay")
 
 if __name__ == "__main__":
-    app.run(port=5000, debug=True)
+    app.run(port=5000)
