@@ -1,5 +1,7 @@
 # Setu Assignment
 
+## API to figure out encryption and checksum and create 2 APIs, a bill fetch API and bill pay API which will hit given url and fetch data 
+
 ## Requirements
 The requirements.txt file should list all Python libraries that is required to run the app
 
